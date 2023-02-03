@@ -30,6 +30,8 @@ import com.adventofcode.hiraganime.model.Exercise;
  *  To what floor do the instructions take this person?
  *  
  *  @SOLUTION_AUTHOR BrandonMartinez-jar
+ *  @SOLUTION_LANGUAGE Java
+ *  @SOLUTION_DATE 30/01/2023
  * 
  */
 
