@@ -41,6 +41,12 @@ check if it appears in the string codeforces
 @SOLUTION_AUTHOR
 hiraganime (codeforces) | BrandonMartinez-jar (github)
 
+@SOLUTION_LANGUAGE
+Python
+
+@SOLUTION_DATE
+03/02/2023
+
 '''
 
 t = int( input() )
