@@ -51,6 +51,12 @@ of Alperen's starting point). You need to determine if Alperen ever passes the c
 @SOLUTION_AUTHOR
 hiraganime (codeforces) | BrandonMartinez-jar (github)
 
+@SOLUTION_LANGUAGE
+Python
+
+@SOLUTION_DATE
+03/02/2023
+
 '''
 
 t = int( input() )
